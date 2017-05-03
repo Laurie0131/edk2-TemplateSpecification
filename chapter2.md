@@ -225,6 +225,8 @@ digraph G {
 {% endplantuml %}
 ###### Figure 11 - DITAA Diagram
 
+![](media/TianocoreTitlePageLogo.jpg)
+###### Figure 12 - Tianocore Logo
 
 ## 2.5 Tips, Notes, Cautions, Warnings
   
